@@ -1,0 +1,36 @@
+{
+  "name": "react-hooks-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/GQSM/react-hook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/GQSM/react-hook/issues"
+  },
+  "homepage": "https://gitlab.com/GQSM/react-hook#README",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "@testing-library/react-hooks": "^3.2.1",
+    "babel-loader": "^8.0.5",
+    "jest": "^25.5.4",
+    "react-test-renderer": "^16.13.1",
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
